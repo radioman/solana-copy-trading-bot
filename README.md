@@ -377,7 +377,7 @@ kill -SIGUSR2 <process_id>
 ## 📞 Support & Contact
 
 ### Contact Information
-- **Telegram**: [@radioman](https://t.me/radioman)
+- **Telegram**: [@radiodev](https://t.me/radiodev)
 - **Repository**: Private repository always available to land 0block
 
 ### Getting Help
