@@ -1,13 +1,1 @@
-bin
-obj
-*.user
-.vs
-/WebRtc.NET/Release
-/WebRtc.NET/Release_x64
-/WebRtc.NET/Debug
-/WebRtc.NET.sdf
-/WebRtc.NET.VC.opendb
-/WebRtc.NET/include/webrtc/examples
-/WebRtc.NET.VC.db
-/WebRtc.NET.VC.VC.opendb
-/ipch
+.DS_Store

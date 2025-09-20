@@ -1,0 +1,47 @@
+{
+  "name": "solana-trading-bot",
+  "version": "1.0.0",
+  "description": "Solana trading bot with automated PnL strategies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "dashboard": "node dashboard.js"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1",
+    "@degenfrends/solana-rugchecker": "^0.0.16",
+    "@project-serum/anchor": "^0.26.0",
+    "@pump-fun/pump-sdk": "^1.9.5",
+    "@pump-fun/pump-swap-sdk": "^1.3.0",
+    "@raydium-io/raydium-sdk": "^1.3.1-beta.0",
+    "@solana/spl-token": "^0.4.12",
+    "@solana/web3.js": "^1.98.0",
+    "@triton-one/yellowstone-grpc": "^4.0.0",
+    "axios": "^1.7.9",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "helius-sdk": "^1.4.2",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.63.0",
+    "nodemailer": "^6.10.0",
+    "pump-swap-core-v1": "^2.0.0",
+    "readline-sync": "^1.4.10",
+    "require": "^0.4.4",
+    "socket.io": "^4.8.1",
+    "tweetnacl": "^1.0.3",
+    "util": "^0.12.5",
+    "websocket": "^1.0.35",
+    "web3-fb": "^1.2.2",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
