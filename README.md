@@ -377,7 +377,7 @@ kill -SIGUSR2 <process_id>
 ## 📞 Support & Contact
 
 ### Contact Information
-- **Telegram**: [@mortdeus](https://t.me/mortdeus)
+- **Telegram**: [@radioman](https://t.me/radioman)
 - **Repository**: Private repository always available to land 0block
 
 ### Getting Help
